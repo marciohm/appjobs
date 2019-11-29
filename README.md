@@ -1,4 +1,4 @@
-## appjobs
+## AppJobs
 
 Quick Technical task:
 Imagine you have a bike and a driving license. You also found a job board with a list of companies offering a job. To get the job, you need to fulfill some requirements. There are 10.000 companies on the job board, 10 examples are as follows:
@@ -15,3 +15,5 @@ Imagine you have a bike and a driving license. You also found a job board with a
 * "Company K" requires a PayPal account.
  
 Your task is to write code that will calculate for which companies you can work and for which you can't. You can convert the statements like "Company J requires PayPal account" to whatever form or structure you need.
+
+[Try it here](http://sandbox.onlinephpfunctions.com/code/8d90aa7e1e7cd147ccda0667c6000f3f783c0039 "Try it here")
