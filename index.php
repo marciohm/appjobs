@@ -78,6 +78,11 @@ function getJobs($userAttributes) {
 			}
 		}
 
+		//If a company does not have requirementes, set the number of user attributes as a ranking
+		if (empty($companies[$i]['requirements'])) {
+			$companies[$i]['ranking'] += count($userAttributes);
+		}
+
 		//Splits good matches and bad matches
 		if ($companies[$i]['ranking'] > 0) {
 			$goodMatches[] = $companies[$i];

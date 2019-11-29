@@ -16,4 +16,4 @@ Imagine you have a bike and a driving license. You also found a job board with a
  
 Your task is to write code that will calculate for which companies you can work and for which you can't. You can convert the statements like "Company J requires PayPal account" to whatever form or structure you need.
 
-[Try it here](http://sandbox.onlinephpfunctions.com/code/8d90aa7e1e7cd147ccda0667c6000f3f783c0039 "Try it here")
+[Try it here](http://sandbox.onlinephpfunctions.com/code/ea8e3c604c2db270fc343440ddd8eaf5472099b9 "Try it here")
